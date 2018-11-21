@@ -13,12 +13,12 @@ During the hackathon you will be able to:
 3. Design your own Blockchain Project & Token Economy Process.
 
 ### Overview of Hackathon schedule
-Result : Blockchain Service Concept, Smaple SCORE
+Result : Blockchain Service Concept, Sample SCORE
 
 || Day 1 - Blockchain Overview  ||
 ------|------------------------------|-------      
-13:00 | Program Introduction | Juju University
-13:15 | Blockchain Overview | De:Nexo, Managing Parner, Lena Eunhea Kim
+13:00 | Program Introduction | Jeju University
+13:15 | Blockchain Overview | De:Nexo, Managing Partner, Lena Eunhea Kim
 14:00 | Example of Blockchain DApp service | De:Nexo Director, Katie Kyoungmin Nam
 14:40 | ICE Breaking, Mission & TEAM Introduction | De:Nexo, Biz Analyst, Mincheol Jeon
 15:20 | ICON Overview | Nomad Connection, Researcher, Joonyoung Choi (John)
