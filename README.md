@@ -42,7 +42,7 @@ Result : Blockchain Service Concept, Sample SCORE
 ------|------------------------------|-------      
 10:00 | Individual/Team Mission Submission | De:Nexo, Biz Analyst, Mincheol Jeon
 10:10 | Future of ICON | Nomad Connection, Researcher, Do Yun Hwang
-10:30 | Team Mission Presentation (10m+a per Each Team) | Hackathon Participants
+10:30 | Team Mission Presentation (10m+a, Q&A) | Hackathon Participants
 12:30 | Lunch | 
 13:30 | BEST of ICON JEJU Awards |
 14:00 | End of Day 3 Event | 
@@ -63,6 +63,7 @@ Intermediate checks | Presentation | Creativity | Logicality
 2. Presentation: Completion and persuasion of the final presentation
 3. Creativity: New concept, structure of service model
 4. Logicality: Logical connectivity to market conditions, opportunity factors, and service models
+
 **Added Point**: 1 point per each Participants who submit their Individual Mission
 
 ## Channels of communication
