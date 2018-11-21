@@ -47,12 +47,12 @@ Result : Blockchain Service Concept, Smaple SCORE
 13:30 | BEST of ICON JEJU Awards |
 14:00 | End of Day 3 Event | 
 
-### Mission:
+## Mission:
 1. Individual Mission 1 (Tech): Create your own SCORE (Smart Contract On Reliable Environment)
 2. Individual Mission 2 (Biz): Make up your own Token Economy base on Token Economy Canvas
 3. Team Mission: Create a feasible service model & Sample Token using ICON development source!
 
-#### Score table:
+**Score table**
 
 Intermediate checks | Presentation | Creativity | Logicality
 --------------------|--------------|------------|-----------
@@ -65,17 +65,17 @@ Intermediate checks | Presentation | Creativity | Logicality
 4. Logicality: Logical connectivity to market conditions, opportunity factors, and service models
 **Added Point**: 1 point per each Participants who submit their Individual Mission
 
-### Channels of communication
+## Channels of communication
 If you need help or have questions you can find us here:
 - Hackathon Slack
 - E-mail of Facilitator
 
-### Prize:
+## Prize:
 1. 150,000 won, ICON Goods
 2. 100,000 won, ICON Goods
 3. 50,000 won, ICON Goods
 
-### Thank you!
+## Thank you!
 Thank you for the teams who participated and helped JEJU Blockchain Hackathon.
 
 - De:Nexo
